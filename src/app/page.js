@@ -11,6 +11,9 @@ export default function Home() {
       <h5>Hello World</h5>
       <h6>Hello World</h6>
       <p>Hello World</p>
+
+
+      <div>Hola hola hola</div>
     </div>
   );
 }
