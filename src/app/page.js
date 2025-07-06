@@ -9,17 +9,11 @@ export default function Home() {
       <div>Conflicto 1</div>
       <Datos />
 
-      <div>Conflicto 4</div>
+     
       <div>Conflicto 5</div>
       <div>Conflicto 6</div>
       <div>Conflicto 4</div>
-      <div>Conflicto 5</div>
-      <div>Conflicto 6</div>
-      <div>Conflicto 4</div>
-      <div>Conflicto 5</div>
-      <div>Conflicto 6</div>
-      <div>Conflicto 4</div>
-      <div>Conflicto 5</div>
+      <div>Hola 5</div>
       <div>Conflicto 6</div>
     </div>
   );
