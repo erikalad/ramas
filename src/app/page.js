@@ -12,6 +12,15 @@ export default function Home() {
       <div>Conflicto 4</div>
       <div>Conflicto 5</div>
       <div>Conflicto 6</div>
+      <div>Conflicto 4</div>
+      <div>Conflicto 5</div>
+      <div>Conflicto 6</div>
+      <div>Conflicto 4</div>
+      <div>Conflicto 5</div>
+      <div>Conflicto 6</div>
+      <div>Conflicto 4</div>
+      <div>Conflicto 5</div>
+      <div>Conflicto 6</div>
     </div>
   );
 }
